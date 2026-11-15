@@ -1,0 +1,12 @@
+node_modules/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+*.log
+
+# 本地调试产物与站点私有绑定（含云端 ID，不外流）
+.preview-*/
+.qoder/
+*.qoder.site
+TEMPLATE-DISABLED.site-descriptor.json

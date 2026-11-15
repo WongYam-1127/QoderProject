@@ -1,0 +1,51 @@
+atelier-film.mp4 — 素材来源、署名与再分发许可
+
+本说明仅适用于同目录的 atelier-film.mp4，不改变网站代码或其他素材的许可。
+
+作品与创作者
+原作：Big Buck Bunny（2008），Peach Open Movie Project 动画电影。
+创作者及原作版权方：Blender Foundation / Peach 项目团队。
+版权署名：(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+同时保留官方署名：Blender Foundation | www.blender.org
+
+许可与证据
+原作及本截取版本采用 Creative Commons Attribution 3.0 Unported
+（CC BY 3.0，知识共享署名 3.0 未本地化版本）许可。
+官方授权说明：https://peach.blender.org/about/
+原作项目网站：https://peach.blender.org/
+许可说明：https://creativecommons.org/licenses/by/3.0/
+完整许可条款：https://creativecommons.org/licenses/by/3.0/legalcode
+
+实际使用的下载来源
+W3C 托管的 Big Buck Bunny 完整版 MP4 镜像：
+https://media.w3.org/2010/05/bunny/movie.mp4
+许可依据来自上述 Blender 官方项目页面；W3C 是下载镜像，不是创作者。
+
+本文件所作修改
+- 从上述镜像截取 00:45.000 至 01:00.000 的连续 15 秒片段。
+- 内容为兔子走出树洞、在明亮草地上伸展身体的原电影动画镜头。
+- 移除全部音轨，文件中没有音频流。
+- 缩放至 640 × 360，方形像素，未作空间裁切；保持原速 24 fps。
+- 重新编码为 MP4 / H.264 AVC Main Profile Level 3.0，yuv420p，BT.709。
+- 启用 faststart（moov 位于 mdat 之前），添加来源与署名元数据。
+- 未添加生成图像、程序测试图或新的音乐。
+
+可随模板再分发
+CC BY 3.0 允许复制、修改和再分发，包括商业用途及随网站模板分发。
+请保留作品名、创作者署名、来源、许可链接和修改说明，并将本文件随视频交付。
+在网站的素材署名或关于页面等合理位置展示下面的署名，便于访客查阅。
+不得暗示 Blender Foundation、Peach 团队或 W3C 为本网站背书。
+不得施加妨碍接收者行使许可权利的附加限制或技术措施。
+本说明是使用指引，完整法律条件以上述 CC BY 3.0 条款为准。
+
+可直接使用的署名文字
+“Big Buck Bunny” © 2008 Blender Foundation | www.blender.org
+原作：https://peach.blender.org/
+许可：CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
+本版本：截取 00:45–01:00，缩放至 640×360，移除音轨并转码。
+
+文件识别与验证
+文件大小：1,600,004 字节（约 1.60 MB）。
+MP4 容器时长：15.000 秒；单视频轨；24 fps；360 帧；无音轨。
+已独立解析 MP4 容器并完整严格解码全部 360 帧，无解码错误；已抽帧目视检查。
+SHA-256：5dd18b1f83c2dc40c755cdbf1cc77255081c53daf4fa305f40775cb788b32899
